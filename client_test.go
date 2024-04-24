@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/supabase-community/supabase-go"
+	"github.com/0verflowme/supabase-go"
 )
 
 const (
